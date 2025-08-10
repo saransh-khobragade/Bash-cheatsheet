@@ -1,6 +1,3 @@
-# Let's create a comprehensive Bash commands cheatsheet in README format
-bash_cheatsheet = """# 🐚 Bash Command Cheatsheet
-
 A handy collection of **basic to advanced Bash commands** that a senior engineer often uses.
 
 ---
